@@ -17,21 +17,26 @@ blueprint as opposed of being a simple output.
 
 BML is a dedicated language meaning it has to be extended with a concrete scenario in mind. For
 instance the VBML is a BML based language that provides direct access to video resources on the
-Internet. It's often a good practice to prefix BML with an explicit letter that defines the 
-expected scenario when parsing and running its data. That's useful for defining a constrained
-scope and being efficient at a given task, it's also easier to guess what it might do without
-extracting the content itself. Which makes it substantially different than other standards like
-linked data which proposes to interlink generic data. BML is deeply singular and specific about
-a set of given tasks it's trying to achieve efficently. It's also constrained and finite, which
-gives it a peculiar philosophical stance.
+Internet.
+
+It's often a good practice to prefix BML with an explicit letter that defines the expected scenario
+when parsing and running its data. That's useful for defining a constrained scope and being
+efficient at a given task, it's also easier to guess what it might do without extracting the
+content itself.
+
+Which makes it substantially different than other standards like linked data which proposes to
+interlink generic data. BML is deeply singular and specific about a set of given tasks it's trying
+to achieve efficently. It's also constrained and finite, which gives it a peculiar philosophical
+stance.
 
 ## Script Language
 
 BML comes with a simple and high level scripting language. It's based on a very simple syntax with
 a focus on efficiency and simplicity. It enables the user to specify a set of routines and
 properties according to what he wants to achieve with his program. It's entirely sandboxed meaning
-it should never make a program crash no matter what the user writes in the BML input. The
-scripting language is simple enough and could be used with a rudimentary knowledge about coding
+it should never make a program crash no matter what the user writes in the BML input.
+
+The scripting language is simple enough and could be used with a rudimentary knowledge about coding
 practices. Which is supposed to empower end users to do more with their sofware, without learning
 a comprehensive scripting language.
 
