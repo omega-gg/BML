@@ -45,7 +45,7 @@ a comprehensive scripting language.
 This standard was designed based on my practical experience at extracting video resources on the
 Internet. Which requires dedicated scripting together with a client based software that retrieves
 video resources on the Internet. It was intially designed with a [Video Browser](http://omega.gg/MotionBox/VideoBrowser)
-in mind (like [MotionBox](http://omega.gg/MotionBox). Then came the idea of having a base standard
+in mind (like [MotionBox](http://omega.gg/MotionBox)). Then came the idea of having a base standard
 that would allow other scenarios that are not necessarily related to video. For instance MBML for
 music or EBML for ebooks.
 
@@ -60,6 +60,14 @@ ROUTINE: |
     SET count 41
     RETURN (ADD count 1)
 ```
+
+## Samples
+
+- [duckduckgo.yml](https://github.com/omega-gg/backend/blob/master/duckduckgo.vbml): DuckDuckGo video search engine.
+- [bittorrent.yml](https://github.com/omega-gg/backend/blob/master/bittorrent.vbml): BitTorrent video retriever.
+- [youtube.yml](https://github.com/omega-gg/backend/blob/master/youtube.vbml): Youtube video retriever.
+- [opensubtitles.yml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever.
+- [tmdb.yml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever.
 
 ## Authors
 
