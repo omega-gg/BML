@@ -1,7 +1,7 @@
 # Backend Markup Language (BML)
 
 BML is a client based markup standard designed to provide a set of routines and properties in order
-to accomplish a series of tasks through a dedicated software runtime. It's based on [YAML](https://en.wikipedia.org/wiki/YAML)
+to accomplish a series of tasks through a dedicated software runtime. It's inspibred by [YAML](https://en.wikipedia.org/wiki/YAML)
 to keep things simple and human readable. It's client based and entirely depends on the software it
 runs from. It can be extended via a scripting language to extract complex resources. You could
 apprehend it as the opposite of a traditional markup language like XML or HTML that provides the
