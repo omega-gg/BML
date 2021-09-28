@@ -20,7 +20,7 @@ instance the VBML is a BML based language that provides direct access to video r
 Internet.
 
 It's often a good practice to prefix BML with an explicit letter that defines the expected scenario
-when parsing and running its data. That's useful for defining a constrained scope and being
+when parsing and running its content. That's useful for defining a constrained scope and being
 efficient at a given task, it's also easier to guess what it might do without extracting the
 content itself.
 
