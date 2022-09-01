@@ -44,8 +44,8 @@ a comprehensive programming language.
 
 This standard was designed based on my practical experience at extracting video resources on the
 Internet. Which requires dedicated scripting together with a client based software that retrieves
-video resources on the Internet. It was intially designed with a [Video Browser](http://omega.gg/about/VideoBrowser)
-in mind (like [MotionBox](http://omega.gg/MotionBox)). Then came the idea of having a base standard
+video resources on the Internet. It was intially designed with a [Video Browser](https://omega.gg/about/VideoBrowser)
+in mind (like [MotionBox](https://omega.gg/MotionBox)). Then came the idea of having a base standard
 that would allow other scenarios that are not necessarily related to video. For instance MBML for
 music or EBML for ebooks.
 
@@ -71,4 +71,4 @@ ROUTINE: |
 
 ## Authors
 
-- Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
+- Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>
