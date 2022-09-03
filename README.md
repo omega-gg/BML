@@ -63,11 +63,11 @@ ROUTINE: |
 
 ## Samples
 
-- [duckduckgo.yml](https://github.com/omega-gg/backend/blob/master/duckduckgo.vbml): DuckDuckGo video search engine.
-- [bittorrent.yml](https://github.com/omega-gg/backend/blob/master/bittorrent.vbml): BitTorrent video retriever.
-- [youtube.yml](https://github.com/omega-gg/backend/blob/master/youtube.vbml): Youtube video retriever.
-- [opensubtitles.yml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever.
-- [tmdb.yml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever.
+- [duckduckgo.vbml](https://github.com/omega-gg/backend/blob/master/duckduckgo.vbml): DuckDuckGo video search engine.
+- [bittorrent.vbml](https://github.com/omega-gg/backend/blob/master/bittorrent.vbml): BitTorrent video retriever.
+- [youtube.vbml](https://github.com/omega-gg/backend/blob/master/youtube.vbml): Youtube video retriever.
+- [opensubtitles.vbml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever.
+- [tmdb.vbml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever.
 
 ## Authors
 
