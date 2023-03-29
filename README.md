@@ -67,7 +67,7 @@ ROUTINE: |
 - [bittorrent.vbml](https://github.com/omega-gg/backend/blob/master/bittorrent.vbml): BitTorrent video retriever.
 - [youtube.vbml](https://github.com/omega-gg/backend/blob/master/youtube.vbml): Youtube video retriever.
 - [opensubtitles.vbml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever.
-- [tmdb.vbml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever.
+- [tmdb.vbml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDB cover retriever.
 
 ## Authors
 
